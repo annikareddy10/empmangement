@@ -158,3 +158,9 @@ git push -u origin main
 ```
 
 Add screenshots to a `/screenshots` folder before pushing.
+## Screenshots
+
+![Screenshot1](Screenshot%20(42).png)
+![Screenshot2](Screenshot%20(43).png)
+![Screenshot3](Screenshot%20(44).png)
+![Screenshot4](Screenshot%20(45).png)
